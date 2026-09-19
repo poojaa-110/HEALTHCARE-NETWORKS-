@@ -37,3 +37,12 @@ Jupyter Notebook
 📈 Skills Demonstrated:
 
 Data Cleaning|| EDA|| Python|| Pandas|| Data Visualization|| Power BI ||Healthcare Analytics
+
+
+## 👩‍💻 Author
+
+**Pooja Kumari**
+
+*Aspiring Data Analyst*
+
+#DataAnalytics #EDA #Healthcare Analytics #Python #DataAnalysis
