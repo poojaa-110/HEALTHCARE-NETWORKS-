@@ -9,15 +9,13 @@ Python
 
 Pandas & NumPy
 
-SQL
-
 Matplotlib & Seaborn
 
 Power BI
 
 Jupyter Notebook
 
-🔍 Key Analysis
+🔍 Key Analysis:
 
 👥 Patient demographics
 
@@ -29,9 +27,10 @@ Jupyter Notebook
 
 💊 Medication analysis
 
-📈 Skills Demonstrated
-
-Data Cleaning EDA SQL Python Pandas Data Visualization Power BI Healthcare Analytics
 🧪 Test result analysis
 
 📊 Data visualization
+
+📈 Skills Demonstrated:
+
+Data Cleaning EDA SQL Python Pandas Data Visualization Power BI Healthcare Analytics
