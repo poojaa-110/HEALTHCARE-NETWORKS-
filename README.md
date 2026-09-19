@@ -6,31 +6,21 @@ a broadly even split between elective, urgent and emergency admissions.
 🛠️ Tools & Technologies
 
 Python
-
 Pandas & NumPy
-
 Matplotlib & Seaborn
-
 Power BI
-
 Jupyter Notebook
 
 🔍 Key Analysis:
 
 👥 Patient demographics
-
 🏥 Medical condition analysis
-
 📅 Admission trends
-
 💰 Billing analysis
-
 💊 Medication analysis
-
 🧪 Test result analysis
-
 📊 Data visualization
 
 📈 Skills Demonstrated:
 
-Data Cleaning EDA SQL Python Pandas Data Visualization Power BI Healthcare Analytics
+Data Cleaning|| EDA|| Python|| Pandas|| Data Visualization|| Power BI ||Healthcare Analytics
